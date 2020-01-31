@@ -93,6 +93,7 @@ tbody tr:hover{
 *:focus{
     border-color: #000000;
     border-width: 2px;
+    border-style: solid;
 }
 
 thead tr:first-child th:first-child{
